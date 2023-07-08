@@ -1,7 +1,7 @@
 # Final-Project
 This project focuses on predicting customer conversion using various machine learning algorithms provided by Scikit-Learn. The dataset used for training and evaluation includes features such as age, job, marital status, education qualification, call type, day, month, call duration, number of calls, previous outcome, and the target variable indicating whether the customer converted or not.
 
-Dataset
+#Dataset
 
 The dataset used in this project contains the following columns:
 
@@ -27,7 +27,7 @@ prev_outcome: The outcome of the previous marketing campaign
 
 y: The target variable indicating whether the customer converted (yes or no)
 
-Models
+#Models
 
 The following machine learning models were trained and evaluated on the dataset using scikit-learn:
 
@@ -41,7 +41,7 @@ Random Forest
 
 Usage
 
-To use the customer conversion prediction models, follow these steps:
+#To use the customer conversion prediction models, follow these steps:
 
 Prepare the dataset: Ensure that your dataset is in the correct format and contains the required features.
 
@@ -55,7 +55,7 @@ Make predictions: Utilize the selected model to make predictions on new data or 
 
 Dependencies
 
-This project relies on the following Python libraries and their respective versions:
+#This project relies on the following Python libraries and their respective versions:
 
 scikit-learn
 
@@ -67,7 +67,7 @@ matplotlib
 
 seaborn
 
-##Conclusion
+#Conclusion
 
 The customer conversion prediction models developed in this project aim to provide insights into the likelihood of customer conversion based on the provided dataset. By selecting the best-performing model, you can make more accurate predictions on new data and make informed decisions to improve your marketing campaigns.
 
